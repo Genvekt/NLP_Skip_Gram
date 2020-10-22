@@ -1,0 +1,9 @@
+gensim==3.8.3
+matplotlib==3.3.2
+nltk==3.5
+numpy==1.19.1
+regex==2020.9.27
+scikit-learn==0.23.2
+scipy==1.5.3
+tqdm==4.48.2
+vecto==0.2.7
